@@ -16,10 +16,10 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "sa",
+  "author": "K3100690pdi",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@polkadot/api": "^5.7.1",
+    "@polkadot/api": "^6",
     "@subql/types": "latest",
     "typescript": "^4.1.3",
     "@subql/cli": "latest"
